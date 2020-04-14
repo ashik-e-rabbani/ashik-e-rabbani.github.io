@@ -1,16 +1,19 @@
 [
-{
+  { 
+    
+    "1" :
+   {
 "project_name"    : "Covid-19 Visualizer Bangladesh",
 "project_desc"    : "A website which allows real-time Covid-19 cases visualization based on data from Institute of Epidemiology, Disease Control and Research (IEDCR).",
 "project_tags"    : "Js, Jquery, Ajax, Web",
 "project_source"  : "nai"
-}
-],
-[
-{
-"project_name"    : "NID Parser",
-"project_desc"    : "A mobile Application which converts NID image to text format using Google Cloud Platform(GCP) alongside tasseract and ML Kit technology. ",
-"project_tags"    : "GCP, ML-Kit, machine learning",
-"project_source"  : "nai"
-}
+  },
+   "2"  : {
+     "project_name"    : "NID Parser",
+      "project_desc"    : "A mobile Application which converts NID image to text format using Google Cloud Platform(GCP) alongside tasseract and ML Kit technology. ",
+      "project_tags"    : "GCP, ML-Kit, machine learning",
+      "project_source"  : "nai"
+   }
+ }  
+
 ]
