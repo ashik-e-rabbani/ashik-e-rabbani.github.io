@@ -1,0 +1,69 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+.btn {
+  position: relative;
+  height: 70px;
+  width: 70px;
+  margin: 20px;
+  background: whitesmoke;
+  border-radius: 50%;
+  box-shadow: -7px -7px 20px 0 rgba(255, 255, 255, 0.9),
+    7px 7px 20px 0 rgba(0, 0, 0, 0.3);
+  transition: 0.2s;
+}
+@keyframes glowing {
+      0% { background-color: rgba(23, 162, 190,0.2); box-shadow: 0 0 5px rgba(23, 162, 190,0.2); }
+      50% { background-color: rgba(23, 162, 190,1); box-shadow: 0 0 20px rgba(23, 162, 190,1); }
+      100% { background-color: rgba(23, 162, 190,0.2); box-shadow: 0 0 5px rgba(23, 162, 190,0.2); }
+      }
+.btnHire{
+
+    animation: glowing 3000ms infinite;
+   
+}
+.btn:hover {
+  transform: scale(1.1);
+
+}
+.rightDiv{
+   position: relative;
+   top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.btn::before {
+  content: "";
+  position: absolute;
+  height: 80%;
+  width: 80%;
+  background: whitesmoke;
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.btn:hover::before {
+  box-shadow: inset -7px -7px 20px 0 rgba(255, 255, 255, 1),
+    inset 7px 7px 20px 0 rgba(0, 0, 0, 0.3);
+}
+
+.btn i {
+  position: absolute;
+  color: rgb(23, 162, 190);
+  font-size: 35px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: 0.2s;
+}
+
+.btn:hover i {
+  font-size: 30px;
+}
