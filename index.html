@@ -190,7 +190,7 @@ worldRequest.onload = function(){
 _retrive_data = JSON.parse(worldRequest.responseText);
 		var totalLength = eval(_retrive_data.length);
 		console.log(_retrive_data[0]['1']);
-		for (var i = 0; i <= totalLength; i++) {
+		for (var i = 0; i <= 8; i++) {
 			var pos = `${i+1}`;
 			jQuery('<div/>', {
 			    id: 'card'+i,
