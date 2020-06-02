@@ -12,25 +12,25 @@
      "project_name"    : "NID Parser",
       "project_desc"    : "A mobile Application which converts NID image to text format using Google Cloud Platform(GCP) alongside tasseract and ML Kit technology. ",
       "project_tags"    : "Year: 2020  Duration: 7 days",
-      "project_source"  : "nai"
+      "project_source"  : "#"
    },
    "3"  : {
      "project_name"    : "Chasi Vai",
       "project_desc"    : "An Image Processing and Deep Learning-based Android app is used to identify plant disease by capturing the plant.",
       "project_tags"    : "Year: 2019  Duration: 1 year",
-      "project_source"  : "nai"
+      "project_source"  : "http://chasivai.com/"
    },
    "4"  : {
      "project_name"    : "Creative Kids",
       "project_desc"    : "HCI Based Android App for Autism Kids to interact with daily life activities.",
       "project_tags"    : "Year: 2019  Duration: 1 month",
-      "project_source"  : "nai"
+      "project_source"  : "#"
    },
    "5"  : {
      "project_name"    : "Emotion Detection from Sentence",
       "project_desc"    : "Emotion detection from social media comments",
       "project_tags"    : "Year: 2018  Duration: Forgot it !",
-      "project_source"  : "nai"
+      "project_source"  : "https://github.com/ashik-e-rabbani/Emotion-detection-from-comments"
    },
     "6"  : {
      "project_name"    : "Defect Detection using ML ",
