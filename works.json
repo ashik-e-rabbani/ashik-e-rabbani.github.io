@@ -1,59 +1,86 @@
 [
   { 
-    
     "1" :
-   {
-"project_name"    : "Covid-19 Visualizer Bangladesh",
-"project_desc"    : "A website which allows real-time Covid-19 cases visualization based on data from Institute of Epidemiology, Disease Control and Research (IEDCR).",
-"project_tags"    : "Year: 2020  Duration: 7 days",
-"project_source"  : "https://ashik-e-rabbani.github.io/coronabd/"
-  },
-   "2"  : {
+     {
+  "project_name"    : "Resume AI – Recruitment analytics solution",
+  "project_desc"    : "This web –based software helps to find the best fit applicant’s resume with NID verification according a job circular without human interaction.",
+  "project_tags"    : "Django(python) ",
+  "project_source"  : "#"
+    },
+    "2" :
+     {
+  "project_name"    : "CONBA-Consumer Behavior Analyser",
+  "project_desc"    : "This project is aimed to determine the consumer’s behavior on their feedback and social comments. Supports Both Bengali and English Language.",
+  "project_tags"    : "Django(python) ",
+  "project_source"  : "#"
+    },
+    "3" :
+     {
+  "project_name"    : "Smart Todo list",
+  "project_desc"    : "Auto writing idea suggestion based on situation of user.",
+  "project_tags"    : "Laravel(php)",
+  "project_source"  : "#"
+    },
+     "4" :
+     {
+  "project_name"    : "Shoplix – An e-commerce platform",
+  "project_desc"    : "Just an e-commerce platform.",
+  "project_tags"    : "Django(python)",
+  "project_source"  : "#"
+    },
+      "5" :
+     {
+  "project_name"    : "Covid-19 Visualizer Bangladesh",
+  "project_desc"    : "A website which allows real-time Covid-19 cases visualization based on data from Institute of Epidemiology, Disease Control and Research (IEDCR).",
+  "project_tags"    : "Native Website | Year: 2020  Duration: 7 days",
+  "project_source"  : "https://ashik-e-rabbani.github.io/coronabd/"
+    },
+   "6"  : {
      "project_name"    : "NID Parser",
       "project_desc"    : "A mobile Application which converts NID image to text format using Google Cloud Platform(GCP) alongside tasseract and ML Kit technology. ",
       "project_tags"    : "Year: 2020  Duration: 7 days",
       "project_source"  : "#"
    },
-   "3"  : {
+   "7"  : {
      "project_name"    : "Chasi Vai",
       "project_desc"    : "An Image Processing and Deep Learning-based Android app is used to identify plant disease by capturing the plant.",
-      "project_tags"    : "Year: 2019  Duration: 1 year",
+      "project_tags"    : "Android | Image Processing | Year: 2019  Duration: 1 year",
       "project_source"  : "http://chasivai.com/"
    },
-   "4"  : {
+   "8"  : {
      "project_name"    : "Creative Kids",
       "project_desc"    : "HCI Based Android App for Autism Kids to interact with daily life activities.",
-      "project_tags"    : "Year: 2019  Duration: 1 month",
+      "project_tags"    : "Android | Year: 2019  Duration: 1 month",
       "project_source"  : "#"
    },
-   "5"  : {
+   "9"  : {
      "project_name"    : "Emotion Detection from Sentence",
       "project_desc"    : "Emotion detection from social media comments",
-      "project_tags"    : "Year: 2018  Duration: Forgot it !",
+      "project_tags"    : "Python | Year: 2018  Duration: Forgot it !",
       "project_source"  : "https://github.com/ashik-e-rabbani/Emotion-detection-from-comments"
    },
-    "6"  : {
-     "project_name"    : "Defect Detection using ML ",
+    "10"  : {
+     "project_name"    : "Defect Detection using Machine Learning ",
       "project_desc"    : "Defect (path-holes & Crack) Detection using Tensorflow",
-      "project_tags"    : "Year: 2018  Duration: Forgot it !",
+      "project_tags"    : "Machine Learning | Year: 2018  Duration: Forgot it !",
       "project_source"  : "https://www.youtube.com/watch?v=pPOohWcCuxg"
    },
-    "7"  : {
+    "11"  : {
      "project_name"    : "Food Ordering System",
       "project_desc"    : "Using this Application you can order food by call / SMS",
-      "project_tags"    : "Year: 2018  Duration: 3 days",
+      "project_tags"    : "Android | Year: 2018  Duration: 3 days",
       "project_source"  : "https://www.youtube.com/watch?v=Hy9AB-XgnKk"
    },
-   "8"  : {
+   "12"  : {
      "project_name"    : "T-Shirt Distribution",
       "project_desc"    : "This app enables the student to get a T-shirt by scanning a bar code.",
-      "project_tags"    : "Year: 2017  Duration: 2 months",
+      "project_tags"    : "Android | Year: 2017  Duration: 2 months",
       "project_source"  : "https://www.youtube.com/watch?v=t0cqkqw2dvE"
    },
-   "9"  : {
+   "13"  : {
      "project_name"    : "Taskbd.io",
       "project_desc"    : "A Freelancing website where user can make their tasks done by hiring professionals.",
-      "project_tags"    : "Year: 2017  Duration: 3 months",
+      "project_tags"    : "Native Website | Year: 2017  Duration: 3 months",
       "project_source"  : "https://youtu.be/CWCQBI8b10E"
    }
  }  
