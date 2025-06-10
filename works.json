@@ -30,7 +30,7 @@
     },
       "5" :
      {
-  "project_name"    : "Covid-19 Visualizer Bangladesh",
+  "project_name"    : "Covid-19 Visualizer Bangladesh.",
   "project_desc"    : "A website which allows real-time Covid-19 cases visualization based on data from Institute of Epidemiology, Disease Control and Research (IEDCR).",
   "project_tags"    : "Native Website | Year: 2020  Duration: 7 days",
   "project_source"  : "https://ashik-e-rabbani.github.io/coronabd/"
